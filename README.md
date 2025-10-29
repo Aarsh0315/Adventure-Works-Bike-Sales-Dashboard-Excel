@@ -1,6 +1,6 @@
-# 🚴 Adventure Works Bike Sales Dashboard using Microsoft Excel
+# 🚴 Adventure Works Bike Sales Dashboard using Microsoft Powerbi
 
-This project presents an interactive **Adventure Works Bike Sales Dashboard** built in **Microsoft Excel** to visualize and analyze sales performance for the Adventure Works dataset.  
+This project presents an interactive **Adventure Works Bike Sales Dashboard** built in **Microsoft Powerbi** to visualize and analyze sales performance for the Adventure Works dataset.  
 It provides insights into revenue trends, product performance, regional sales, and customer segments through clean and dynamic visualizations.
 
 ---
@@ -30,7 +30,7 @@ This dashboard helps businesses identify trends, track targets, and make data-dr
 
 ## 🧠 Tools & Techniques Used
 
-- **Microsoft Excel**
+- **Microsoft Powerbi**
   - Pivot Tables & Pivot Charts  
   - Slicers & Timelines  
   - Conditional Formatting  
@@ -87,7 +87,7 @@ This dashboard enables users to identify:
 ## 🧩 How to Use
 
 1. Download or clone this repository.  
-2. Open **Adventure_Works_Bike_Sales_Dashboard.xlsx** in Microsoft Excel.  
+2. Open **Adventure_Works_Bike_Sales_Dashboard.xlsx** in Microsoft Powerbi.  
 3. Use the slicers and filters to explore data by region, product, or time period.  
 4. Analyze KPIs and charts to uncover sales trends and insights.
 
