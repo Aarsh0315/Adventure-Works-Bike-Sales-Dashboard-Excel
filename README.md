@@ -1,30 +1,30 @@
 # 🚴 Adventure Works Bike Sales Dashboard using Microsoft Excel
 
-This project presents an interactive **Adventure Works Bike Sales Dashboard** created in **Microsoft Excel** to visualize and analyze sales performance for the Adventure Works dataset.  
-It helps users explore revenue trends, product performance, and regional insights through clear and dynamic visualizations.
+This project presents an interactive **Adventure Works Bike Sales Dashboard** built in **Microsoft Excel** to visualize and analyze sales performance for the Adventure Works dataset.  
+It provides insights into revenue trends, product performance, regional sales, and customer segments through clean and dynamic visualizations.
 
 ---
 
 ## 📊 Project Overview
 
-The **Adventure Works Bike Sales Dashboard** was developed to summarize key metrics from the Adventure Works dataset.  
-It provides a quick overview of total revenue, profit, and sales distribution across product categories, subcategories, and regions.  
-The dashboard allows users to make data-driven decisions and spot performance patterns with just a few clicks.
+The **Adventure Works Bike Sales Dashboard** was designed to summarize and analyze key sales metrics from the Adventure Works dataset.  
+It enables users to explore total revenue, profit, and product-wise performance with interactive slicers and timelines.  
+This dashboard helps businesses identify trends, track targets, and make data-driven decisions efficiently.
 
 ---
 
 ## 🚀 Features
 
-- Fully interactive **Excel dashboard** with dynamic filters and visuals  
-- **Pivot Tables** and **Pivot Charts** for sales and profit analysis  
-- **Slicers and Timelines** for filtering by year, region, and product category  
-- **Conditional Formatting** for highlighting key metrics  
-- Key visualizations include:
-  - Total sales and profit KPIs  
-  - Sales by product category and subcategory  
-  - Regional sales performance  
-  - Revenue trends over time  
-  - Customer segmentation insights
+- Fully interactive Excel dashboard with filters and KPIs  
+- **Pivot Tables** and **Pivot Charts** for data analysis  
+- **Slicers and Timelines** for filtering by product, region, and year  
+- **Conditional Formatting** for highlighting performance trends  
+- **Dynamic visualizations** including:
+  - Total Sales and Profit KPIs  
+  - Sales by Product Category and Subcategory  
+  - Revenue by Region and Salesperson  
+  - Monthly and Yearly Trends  
+  - Customer Segmentation Insights
 
 ---
 
@@ -32,30 +32,43 @@ The dashboard allows users to make data-driven decisions and spot performance pa
 
 - **Microsoft Excel**
   - Pivot Tables & Pivot Charts  
-  - Data Cleaning and Transformation  
   - Slicers & Timelines  
   - Conditional Formatting  
-  - Formulas: `SUMIFS`, `COUNTIFS`, `AVERAGEIFS`, `VLOOKUP`, etc.
+  - Data Cleaning & Transformation  
+  - Key Formulas: `SUMIFS`, `COUNTIFS`, `AVERAGEIFS`, `VLOOKUP`, `IFERROR`, etc.
 
 ---
 
 ## 📂 Dataset
 
-This dashboard is built using the **Adventure Works dataset**, which includes:
-- Product information (Category, Subcategory, Model)  
-- Customer and region data  
-- Order quantity and sales revenue  
-- Profit and discount details  
-- Transaction date and salesperson data  
+The dashboard is based on the **Adventure Works dataset**, a popular sample data source by Microsoft.  
+It includes details on:
+- Product categories, subcategories, and models  
+- Customer demographics and regions  
+- Order quantities, sales revenue, and profit  
+- Salesperson performance and discount data  
+- Transaction dates for time-based analysis  
 
-*(Dataset sourced from Microsoft’s Adventure Works sample data.)*
+*(Dataset used for educational and analytical purposes.)*
 
 ---
 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/Aarsh0315/Hospital-Emergency-Dashboard-Using-Excel/blob/main/hospital%20dashboard.png?raw=true" width="700" alt="Adventure Works Bike Sales Dashboard">
+  <img src="https://github.com/Aarsh0315/Adventure-Works-Bike-Sales-Dashboard-Excel/blob/main/adventureworks1.png?raw=true" width="700" alt="Adventure Works Dashboard Page 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Aarsh0315/Adventure-Works-Bike-Sales-Dashboard-Excel/blob/main/adventureworks2.png?raw=true" width="700" alt="Adventure Works Dashboard Page 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Aarsh0315/Adventure-Works-Bike-Sales-Dashboard-Excel/blob/main/adventureworks3.png?raw=true" width="700" alt="Adventure Works Dashboard Page 3">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Aarsh0315/Adventure-Works-Bike-Sales-Dashboard-Excel/blob/main/adventureworks4.png?raw=true" width="700" alt="Adventure Works Dashboard Page 4">
 </p>
 
 ---
@@ -63,17 +76,21 @@ This dashboard is built using the **Adventure Works dataset**, which includes:
 ## 💡 Insights & Learnings
 
 This dashboard enables users to identify:
-- Top-performing bike categories and regions  
-- Monthly and yearly sales trends  
-- Contribution of each product to overall profit  
-- Salesperson and customer segment performance  
-- Areas with high potential for sales growth  
+- Top-performing bike products and regions  
+- Year-over-year sales and profit growth  
+- Monthly and quarterly revenue patterns  
+- Customer segment profitability  
+- Salesperson and territory performance  
 
 ---
 
 ## 🧩 How to Use
 
 1. Download or clone this repository.  
-2. Open the **Adventure_Works_Bike_Sales_Dashboard.xlsx** file in Microsoft Excel.  
-3. Use slicers and filters to explore the dataset interactively.  
-4. Review key charts and KPIs to gain insights into sales performance.
+2. Open **Adventure_Works_Bike_Sales_Dashboard.xlsx** in Microsoft Excel.  
+3. Use the slicers and filters to explore data by region, product, or time period.  
+4. Analyze KPIs and charts to uncover sales trends and insights.
+
+---
+
+⭐ *If you found this project insightful, please consider giving it a star on GitHub!*
